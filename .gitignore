@@ -1,0 +1,28 @@
+# --- secrets / env ---
+.env
+.env.*
+*.env
+
+# --- python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# --- virtual env ---
+.venv/
+venv/
+
+# --- mac ---
+.DS_Store
+
+# --- build artifacts ---
+dist/
+build/
+*.egg-info/
+
+# --- IDE ---
+.vscode/
+.idea/
