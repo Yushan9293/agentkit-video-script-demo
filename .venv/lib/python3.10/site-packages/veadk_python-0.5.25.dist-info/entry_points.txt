@@ -1,0 +1,2 @@
+[console_scripts]
+veadk = veadk.cli.cli:veadk

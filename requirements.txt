@@ -1,0 +1,3 @@
+veadk-python
+pydantic
+python-dotenv
